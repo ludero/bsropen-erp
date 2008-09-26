@@ -1,0 +1,10 @@
+<option value='' selected>Selecione</option>
+<OPTION value='1'>A+</option>
+<OPTION value='2'>A-</option>
+<OPTION value='3'>B+</option>
+<OPTION value='4'>B-</option>
+<OPTION value='5'>AB+</option>
+<OPTION value='6'>AB-</option>
+<OPTION value='7'>O+</option>
+<OPTION value='8'>O-</option>
+<OPTION value='9'>Não conhece</option>
