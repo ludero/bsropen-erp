@@ -1,5 +1,5 @@
 #summary Página Inicial sobre o Projeto Open Source BSROpen ERP.
-#labels Featured
+#labels Featured,Phase-Implementation
 
 = Introdução =
 
