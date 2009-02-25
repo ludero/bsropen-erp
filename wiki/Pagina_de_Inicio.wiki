@@ -1,4 +1,5 @@
 #summary Página Inicial sobre o Projeto Open Source BSROpen ERP.
+#labels Featured
 
 = Introdução =
 
